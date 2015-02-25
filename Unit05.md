@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH008: Math Grade 8"
+course_description: "This course will build on your prior knowledge of expressions and equations to display the patterns in the form of graphs, equations, functions, tables, and qualitatively with words. Topics covered include scientific notation, integer exponents, modeling bivariate (two-variable) data with linear equations, functions, systems of equations, the Pythagorean Theorem, and the volume of spheres, cylinders, and cones."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Statistics** <span id="5"></span> 
 *Is there a relationship between the hours students spend studying for a
 test and their test scores? We could use a scatter plot to graph this

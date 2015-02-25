@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH008: Math Grade 8"
+course_description: "This course will build on your prior knowledge of expressions and equations to display the patterns in the form of graphs, equations, functions, tables, and qualitatively with words. Topics covered include scientific notation, integer exponents, modeling bivariate (two-variable) data with linear equations, functions, systems of equations, the Pythagorean Theorem, and the volume of spheres, cylinders, and cones."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Geometry** <span id="4"></span> 
 *You are at the ice cream parlor and need to decide if you want a cup or
 a cone. The store promises to fill each option with your favorite

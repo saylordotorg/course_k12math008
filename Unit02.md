@@ -1,3 +1,10 @@
+---
+layout: default
+title: "K12MATH008: Math Grade 8"
+course_description: "This course will build on your prior knowledge of expressions and equations to display the patterns in the form of graphs, equations, functions, tables, and qualitatively with words. Topics covered include scientific notation, integer exponents, modeling bivariate (two-variable) data with linear equations, functions, systems of equations, the Pythagorean Theorem, and the volume of spheres, cylinders, and cones."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Expressions and Equations** <span id="2"></span> 
 *Suppose your parents recently told you they would help you purchase
 your first cell phone. Your job is to figure out which company to use.
