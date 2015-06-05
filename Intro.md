@@ -150,3 +150,10 @@ of the above sites for supplemental explanations or practice would be
 very useful.  
     
 
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/k12math008/Unit01/)
+- [Unit 2](https://legacy.saylor.org/k12math008/Unit02/)
+- [Unit 3](https://legacy.saylor.org/k12math008/Unit03/)
+- [Unit 4](https://legacy.saylor.org/k12math008/Unit04/)
+- [Unit 5](https://legacy.saylor.org/k12math008/Unit05/)
