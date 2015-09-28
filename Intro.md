@@ -167,3 +167,4 @@ very useful.
 - [Unit 3](https://legacy.saylor.org/k12math008/Unit03/)
 - [Unit 4](https://legacy.saylor.org/k12math008/Unit04/)
 - [Unit 5](https://legacy.saylor.org/k12math008/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/K12/K12MATH008/K12MATH008-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/K12/K12MATH008/K12MATH008-FinalExam-Answers.html)
