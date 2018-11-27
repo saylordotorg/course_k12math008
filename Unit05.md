@@ -392,14 +392,14 @@ points on the scatter plot.*
     Core Mathematics*: “Investigation of Scatter Plots”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Investigation of Scatter
-    Plots”](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.1.2-InvestigatingScatterPlotsSwimmer.pdf) (PDF)  
+    Plots”](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.1.2-InvestigatingScatterPlotsSwimmer.pdf) (PDF)  
         
      Instructions: Use Janae’s swimming data found
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.1.2-ScatterPlotDataSets.pdf),
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.1.2-ScatterPlotDataSets.pdf),
     on the second page, to complete the scatter plot. Answer questions
     1-7 about the swimming situation. You can learn how to use a
     graphing calculator to check your solution
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.1.2-TransformationGraphingResource.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.1.2-TransformationGraphingResource.pdf).  
         
      Completing this activity and checking your solutions should take
     approximately 45 minutes.  
@@ -616,7 +616,7 @@ frequency in the data.*
     document).   
         
      Check the accuracy of your two-way tables
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit-5.2MathVisionProject_AnswerKey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit-5.2MathVisionProject_AnswerKey-VFINAL.pdf).  
         
      Reading this selection and answering the practice problems should
     take approximately 45 minutes.  
@@ -808,7 +808,7 @@ frequency in the data.*
      Instructions: Complete questions 1-3. Make sure you read each of
     the statements on page 2 carefully before deciding if it is true or
     false. Check your answers with the student work
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.2-ScatterDiagramSolution.pdf).
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5.2-ScatterDiagramSolution.pdf).
     This student received full points on the assignment.  
         
      Completing this activity and checking your solutions should take
@@ -828,10 +828,10 @@ frequency in the data.*
 
 -   **Checkpoint: The Saylor Foundation’s “Two Way Tables”**
     Link: The Saylor Foundation’s [“Two Way
-    Tables”](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit-5-Checkpoint-VFINAL.pdf) (PDF)  
+    Tables”](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit-5-Checkpoint-VFINAL.pdf) (PDF)  
         
      Instructions: Complete questions 1-4. Check your answers
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5-CheckpointSolutions.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/03/K12MATH8-FLC-Unit5-CheckpointSolutions.pdf).  
         
      Completing this activity and checking your solutions should take
     approximately 30 minutes.  
