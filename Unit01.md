@@ -138,7 +138,7 @@ they can be approximated.*
     problems with the instructor as you watch the video.  
         
      Complete the practice problems and check your solutions
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1.1Ck12_Properties_Rational_Irrational-Numbers_answerkey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1.1Ck12_Properties_Rational_Irrational-Numbers_answerkey-VFINAL.pdf).  
         
      Taking notes, working examples, and watching the video should take
     approximately 30 minutes.  
@@ -258,7 +258,7 @@ they can be approximated.*
     ![](file:///C:UsersUserAppDataLocalTempmsohtmlclip101clip_image001.png) when
     approximating a value. Solve the “Practice” questions and check your
     solutions
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1-1.1.1Ck12_Irrational-Square-Roots_answerkey-VFINAL.pdf).
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1-1.1.1Ck12_Irrational-Square-Roots_answerkey-VFINAL.pdf).
     Approximate all values to the nearest hundredth.  
         
      Taking notes, working examples, and watching the video should take
@@ -349,7 +349,7 @@ id="1.1.2"></span> 
     on a number line that ranges from -10 to 10 (you will ignore the
     values for questions 3, 6, and 7 to complete this exercise). Check
     your solutions
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1-1.1.2Ck12_Rational_Irrational_answerkey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1-1.1.2Ck12_Rational_Irrational_answerkey-VFINAL.pdf).  
         
      Taking notes, working examples, and completing the practice
     problems should take approximately 45 minutes.  
@@ -398,7 +398,7 @@ id="1.1.2"></span> 
     answering questions 2 and 3, also use a number line to represent the
     approximate location of each rational and irrational number. Check
     your solutions
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1.1.2RPDP_answerkey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1.1.2RPDP_answerkey-VFINAL.pdf).  
         
      Completing the problems and checking solutions should take
     approximately 30 minutes.  
@@ -995,7 +995,7 @@ id="1.3.1"></span> 
     you watch, solve the problems with the instructor.  
         
      Complete the “Practice” problems and check your solutions
-    [here](http://www.saylor.org/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1-1-3-2Ck12_Operations-Scientific-Notation_answerkey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-1-1-3-2Ck12_Operations-Scientific-Notation_answerkey-VFINAL.pdf).  
         
      Taking notes, solving practice problems, and watching the videos
     should take approximately 1 hour.  
