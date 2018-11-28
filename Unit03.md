@@ -153,7 +153,7 @@ show up in both tables and graphs.*
         
      Instructions: Complete practice questions 1-10 involving domain and
     range. Check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-3-Domain_Range_Answer-Key.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit-3-Domain_Range_Answer-Key.pdf).  
         
      Completing the practice questions and checking solutions should
     take approximately 30 minutes.  
@@ -254,13 +254,13 @@ show up in both tables and graphs.*
     Investigations”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“My Summer Job Options:
-    Investigations”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-SummerOptions.pdf) (PDF)  
+    Investigations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-SummerOptions.pdf) (PDF)  
         
      Instructions: For each investigation, write an equation, complete
     the table, and graph the situation. You will be able to check your
     equations and tables on page 4. Then, use your equation, table, and
     graph to answer the questions found
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-PassTheEnvelope.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-PassTheEnvelope.pdf).
     There are 9 questions total. Answer all 9 of the questions and check
     your solutions on pages 2-3. As you work, consider how you could use
     each equation, table, or graph to answer the questions.    
@@ -280,7 +280,7 @@ show up in both tables and graphs.*
     Program: “Relations and Functions”**
     Link: Southern Nevada Regional Professional Development Program:
     [“Relations and
-    Functions”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-FunctionsAndRelations.pdf) (PDF)  
+    Functions”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-FunctionsAndRelations.pdf) (PDF)  
         
      Instructions: Read through pages 2-5. While you read, make sure you
     have all the vocabulary words written in your notes. Add to your
@@ -292,7 +292,7 @@ show up in both tables and graphs.*
         
      Pages 6-8 have 10 assessment questions. Complete these questions,
     then check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-FunctionsAndRelationsSolutions.pdf) and
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.1-FunctionsAndRelationsSolutions.pdf) and
     make sure you understand the solution.  
         
      Taking notes and completing practice problems should take
@@ -414,7 +414,7 @@ proportional and linear functions are the most familiar to you.*
     *Grade 8 Common Core Mathematics*: “Function Families”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Function
-    Families”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.2-FunctionFamilies.pdf) (PDF)  
+    Families”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.2-FunctionFamilies.pdf) (PDF)  
         
      Instructions: Look at Function Family Sets 1, 2, and 3. Just by
     looking at the functions (don’t make a table or a graph yet),
@@ -445,7 +445,7 @@ proportional and linear functions are the most familiar to you.*
     Resource Sheet”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Function Families Summary Resource
-    Sheet”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.2-FunctionFamiliesSummary.pdf) (PDF)  
+    Sheet”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.2-FunctionFamiliesSummary.pdf) (PDF)  
         
      Instructions: Complete the table and graph for each of the three
     types of functions. When you write the “Key Features” section,
@@ -662,7 +662,7 @@ many weeks until you have saved the necessary amount of money.*
     *Grade 8 Common Core Mathematics*: “Filling the Pool”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Filling the
-    Pool”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.3-FillingThePool.pdf) (PDF)  
+    Pool”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.3-FillingThePool.pdf) (PDF)  
         
      Instructions: Read about Max and Joey in the section titled “The
     Task.” Consider the scenario and decide how you want to solve the
@@ -717,7 +717,7 @@ many weeks until you have saved the necessary amount of money.*
     Test”](http://www.rpdp.net/adm/uploads/math/resource_3661.pdf) (PDF)  
         
      Instructions: Take the assessment. Check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.3-RPDPunit2Practice.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.3-RPDPunit2Practice.pdf).  
         
      Completing this activity should take approximately 45 minutes.  
         
@@ -773,7 +773,7 @@ using qualitative descriptions.*
     *Grade 8 Common Core Mathematics*: “Matching Graphs Activity”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Matching Graphs
-    Activity”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.4-MatchingGraphsActivity.pdf) (PDF)  
+    Activity”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit3.4-MatchingGraphsActivity.pdf) (PDF)  
         
      Instructions: Look at each of the seven graphs on the first page.
     As you look at each graph, think about the rate of change that is
