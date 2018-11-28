@@ -235,14 +235,14 @@ proportional relationships and interpret the unit rates.*
     *Grade 8 Common Core Mathematics*: “Drops in a Bucket Math Task”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Drops in a Bucket Math
-    Task”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.1.2-DropsInABucket.pdf) (PDF)  
+    Task”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.1.2-DropsInABucket.pdf) (PDF)  
         
      Instructions: Read the situation about the rain in the bucket.
     Solve the problem using at least two strategies. Your strategies may
     include graphing, making a table, finding the slope, using an
     equation, writing a proportion, and working backwards. Check your
     answer
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.1.2-DropsInABucketSolutions.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.1.2-DropsInABucketSolutions.pdf).
     Answers are on pages 2-5.  
         
      Completing this task and checking your solutions should take
@@ -340,7 +340,7 @@ vocabulary words throughout this subunit.*
     Core Mathematics*: “Similar Triangles and Slope”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Similar Triangles and
-    Slope”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.2-SimilarTrianglesSlope.pdf) (PDF)  
+    Slope”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.2-SimilarTrianglesSlope.pdf) (PDF)  
         
      Instructions: Start on page 3 looking at the downhill skier. Answer
     the three questions beneath the picture to help develop ideas for
@@ -844,7 +844,7 @@ check – solve the problems algebraically. *
         
      Instructions: Solve questions 1-9 (skip 10-11; you will cover this
     material in the next unit). Check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.4.3.RPDP_.AnswerKey-VFINAL.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit2.4.3.RPDP_.AnswerKey-VFINAL.pdf).
     Make sure you understand all the solutions.  
         
      Completing this checkpoint and checking your solutions should take

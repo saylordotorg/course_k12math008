@@ -1001,11 +1001,11 @@ help mathematicians solve a variety of math problems. *
     Core Mathematics*: “Angles and Triangles Culmination”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: Schools [“Angles and Triangles
-    Culmination”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.2-AnglesTrianglesCulmination.pdf) (PDF)  
+    Culmination”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.2-AnglesTrianglesCulmination.pdf) (PDF)  
         
      Instructions: Solve questions 1–3. Make sure to explain each of
     your answers in detail. Check your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.2-AnglesTrianglesCulminationAnswers.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.2-AnglesTrianglesCulminationAnswers.pdf).  
         
      Completing these practice problems should take approximately 30
     minutes.  
@@ -1024,7 +1024,7 @@ help mathematicians solve a variety of math problems. *
     Core Mathematics*: “Triangle Area Maps”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Triangle Area
-    Maps”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3-TriangleAreaMaps.pdf) (PDF)  
+    Maps”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3-TriangleAreaMaps.pdf) (PDF)  
         
      Instructions: This activity is to help you understand the
     relationship between side lengths of a triangle. Take this resource
@@ -1268,11 +1268,11 @@ help mathematicians solve a variety of math problems. *
     *Grade 8 Common Core Mathematics*: “Application Stations”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Application
-    Stations”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.1-ApplicationStations.pdf) (PDF)  
+    Stations”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.1-ApplicationStations.pdf) (PDF)  
         
      Instructions: Solve each of the application situations and check
     your answers
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-Unit4.3.1Application-Stations.AnswerKey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-Unit4.3.1Application-Stations.AnswerKey-VFINAL.pdf).  
         
      Solving the problems and checking solutions should take
     approximately 30 minutes.  
@@ -1328,14 +1328,14 @@ side lengths and for organizing information. *
     *Grade 8 Common Core Mathematics*: “Task Amazing Amusement Map”**
     Link: Howard County Public School System’s *Grade 8 Common Core
     Mathematics*: [“Task Amazing Amusement
-    Park”](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.2-TaskAmazingAmusementPark.pdf) (PDF)  
+    Park”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.2-TaskAmazingAmusementPark.pdf) (PDF)  
         
      Instructions: Read The Task at the top of the page. Do not scroll
     down to any other pages, yet, as that is where you will go to check
     your solutions. Find the map
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.2-AmusementMap.pdf) and
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.2-AmusementMap.pdf) and
     the key for the map
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.2-AmusementMapKey.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.3.2-AmusementMapKey.pdf).
     Use both of these to solve the task given to you. It will probably
     be helpful if you can print the map. When you have completed the
     task, check your solution with the possible answers on pages 2–4.  
@@ -1443,7 +1443,7 @@ grade.*
     the “Guided Practice” section. Watch the video, focusing your
     attention mainly on the volume portion of the instruction. Complete
     the problems in the “Practice” section and check your solutions
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.1.CK12.Volume.AnswerKey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.1.CK12.Volume.AnswerKey-VFINAL.pdf).  
         
      Reading this lesson, watching the video, working the problems, and
     taking notes should take approximately 45 minutes.  
@@ -1470,7 +1470,7 @@ grade.*
     Practice.” Do not watch the video as it is the same one from the
     previous resource. Complete the “Practice” problems and check your
     solutions
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.1.CK12.Heights.AnswerKey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.1.CK12.Heights.AnswerKey-VFINAL.pdf).  
         
      Reading this lesson, working the problems, and taking notes should
     take approximately 30 minutes.  
@@ -1547,7 +1547,7 @@ grade.*
     the volume of a cylinder. Do the example problems and the problems
     in the “Guided Practice” section. Watch the video. Complete the
     “Practice problems,” and check your solutions
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.2.CK12.VolumeCones.AnswerKeyVFINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.2.CK12.VolumeCones.AnswerKeyVFINAL.pdf).  
         
      Reading this lesson, watching the video, working the problems, and
     taking notes should take approximately 45 minutes.  
@@ -1572,7 +1572,7 @@ grade.*
     understand why it makes sense. Do the “Example” and “Guided
     Practice” problems. Watch the video. Complete the “Practice”
     problems and check your solutions
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.3.CK12.VolumeSphere.AnswerKey-VFINAL.pdf).  
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/01/K12MATH8-FLC-Unit4.4.3.CK12.VolumeSphere.AnswerKey-VFINAL.pdf).  
         
      Reading this lesson, working the problems, watching the video, and
     taking notes should take approximately 30 minutes.  
